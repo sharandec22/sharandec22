@@ -56,4 +56,4 @@ Code Code Code
 
 <a href="https://www.buymeacoffee.com/sharandec22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharandec22)](https://github.com/anuraghazra/github-readme-stats)
+[![Sharan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharan)](https://github.com/anuraghazra/github-readme-stats)
