@@ -48,12 +48,9 @@ Code Code Code
 
 <a href="https://github.com/sharandec22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharandec22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sharandec22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-[![Sharan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharan)](https://github.com/anuraghazra/github-readme-stats)
+[![Sharan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@759435db-d4e9-46dd-90a2-fbe4c4b5441b)](https://github.com/anuraghazra/github-readme-stats)
