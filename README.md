@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sharan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Sharan
 ==============================================================================================================================
 
 Software Engineer
@@ -11,6 +11,7 @@ Code Code Code
 * 🧠  I'm learning Rust and SvelteKit
 * 🤝  I'm open to collaborating on New CLIs and Java Libs
 * ⚡  Im not batman
+* ![](https://komarev.com/ghpvc/?username=sharandec22)
 
 ### Skills
 
@@ -32,6 +33,9 @@ Code Code Code
 </p>
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sharandec22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shivasharanviralamsreedar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sharandec22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sharandec22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -46,11 +50,13 @@ Code Code Code
 
 <a href="http://www.github.com/sharandec22"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sharandec22&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sharandec22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharandec22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sharandec22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-[![Sharan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@759435db-d4e9-46dd-90a2-fbe4c4b5441b)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Sharan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@759435db-d4e9-46dd-90a2-fbe4c4b5441b)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sharandec22)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12102280047) -->
