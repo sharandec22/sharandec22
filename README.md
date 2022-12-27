@@ -55,3 +55,5 @@ Code Code Code
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sharandec22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharandec22)](https://github.com/anuraghazra/github-readme-stats)
